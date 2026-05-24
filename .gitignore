@@ -12,5 +12,4 @@ pubspec.lock
 build/
 .dart_frog
 
-# Test related files
-coverage/.env
+.env
